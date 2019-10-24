@@ -47,7 +47,6 @@
     column-count: 1;
   }
 
-  /*For the .col-1, .col-2, and .col-3 selectors, set the width to 100%, left margin to 0, and float to none*/
   .col-1 {
     float: none;
     width: 100%;
